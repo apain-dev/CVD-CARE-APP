@@ -32,7 +32,7 @@
     "@ngx-translate/http-loader": "^4.0.0",
     "@sentry/browser": "^5.18.0",
     "bulma": "^0.8.2",
-    "dexie": "^3.0.1",
+    "dexie": "^3.2.2",
     "rxjs": "^6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
